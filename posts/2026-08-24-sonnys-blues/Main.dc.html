@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Sans:wght@500&display=swap">
+  <style>
+    body { margin: 0; }
+    a { color: #e4c988; } a:hover { color: #f2ddb0; }
+  </style>
+</helmet>
+<div style="position: relative; width: 1200px; height: 1500px; overflow: hidden; background-color: #14100c; font-family: Georgia, 'Times New Roman', serif;">
+  <div style="position: absolute; inset: 0; background-image: url('./piano-card-bg.jpg'); background-size: cover; background-position: center;"></div>
+  <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(8,6,4,0.88) 0%, rgba(8,6,4,0.55) 20%, rgba(8,6,4,0.18) 42%, rgba(8,6,4,0.32) 62%, rgba(8,6,4,0.82) 100%);"></div>
+
+  <div style="position: absolute; top: 96px; left: 88px; right: 96px; display: flex; flex-direction: column; gap: 28px;">
+    <div style="font-family: 'Spectral', Georgia, serif; font-style: italic; font-weight: 400; font-size: 50px; line-height: 1.38; color: #f4efe4; text-wrap: pretty;">
+      &hellip;the tale of how we suffer, and how we are delighted, and how we may triumph is never new, it always must be heard.
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <div style="width: 56px; height: 1px; background: #c9a24b;"></div>
+      <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-weight: 500; font-size: 20px; letter-spacing: 0.14em; text-transform: uppercase; color: #c9a24b;">
+        James Baldwin
+      </div>
+      <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-weight: 500; font-size: 16px; letter-spacing: 0.08em; color: #b8ac97;">
+        Sonny&#39;s Blues, 1957
+      </div>
+    </div>
+  </div>
+
+  <div style="position: absolute; bottom: 72px; left: 88px; right: 96px; font-family: 'IBM Plex Sans', system-ui, sans-serif; font-weight: 500; font-size: 15px; letter-spacing: 0.16em; text-transform: uppercase; color: #cbbfa8;">
+    Humanity Moment of the Day
+  </div>
+</div>
+</x-dc>
+</body>
+</html>
