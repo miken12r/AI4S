@@ -1,1 +1,4 @@
 .DS_Store
+
+# design-skill seeded canvas bundles are regenerable from Main.dc.html
+posts/**/humanity-moment-*.html
