@@ -53,6 +53,17 @@ commentary. If they leaned on the same move (especially the
 biographical reveal — it's the easiest one to default to), pick a
 different one this time.
 
+## Watch for: narrator vs. author
+
+If the SOURCE is fiction, check whether it's told through a first-person
+narrator distinct from the author (e.g. *My Ántonia*'s Jim Burden, a
+male narrator, is not Willa Cather). Don't write commentary that
+attributes the narrator's actions or experience to the author as if
+autobiographical ("She picks a pumpkin...") — credit the author with
+having written/captured the sentiment instead. This doesn't apply to
+memoir, letters, or other genuinely first-person-as-author sources
+(e.g. Van Gogh's letters).
+
 ## Avoid
 
 - **Summarizing the quote** ("This reminds us that choices matter more

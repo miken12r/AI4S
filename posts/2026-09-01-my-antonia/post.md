@@ -10,5 +10,11 @@ https://www.pexels.com/photo/photo-of-foggy-forest-1367192/
 "At any rate, that is happiness; to be dissolved into something complete and great. When it comes to one, it comes as naturally as sleep."
 — Willa Cather, *My Ántonia* (1918)
 
-She picks a pumpkin lying in a field, not a person accomplishing something, as her example of the feeling. The happiness she's describing doesn't require doing anything — just no longer insisting you're separate from what's already holding you up.
+Long before modern wellness trends, Willa Cather captured the peace that comes from surrendering our egos and simply allowing ourselves to belong to the present moment.
 — AI for Society Online
+
+## Personal profile repost comment
+
+Willa Cather liked this line enough to have it carved on her own headstone: "that is happiness — to be dissolved into something complete and great." Some sentences you keep for the rest of your life.
+
+Sharing today's Humanity Moment of the Day.

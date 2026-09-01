@@ -80,6 +80,16 @@ You are drafting a single LinkedIn post for "Humanity Moment of the Day."
    - Keep total post text under ~900 characters so it doesn't get
      truncated behind "see more" too aggressively.
 
+6. **Draft a personal-profile repost comment.** A short (2-4 sentence)
+   comment the user can post from their own personal LinkedIn profile
+   when resharing the "AI for Society Online" post — distinct in voice
+   from the "AI for Society Online" commentary: first-person, personal,
+   understated, not a restatement of the POST TEXT commentary. Good
+   material: a genuinely interesting fact about the source or its
+   creator that didn't make it into the main commentary (a biographical
+   detail, an origin story, something surprising) — self-contained, so
+   it reads fine even for someone who hasn't seen the original post yet.
+
 ## Output format
 
 Return exactly these sections:
@@ -94,4 +104,7 @@ IMAGE DIRECTION:
 POST TEXT:
 <the full LinkedIn post: quote presented, then 1-3 line commentary,
 then "— AI for Society Online", then optional hashtags>
+
+REPOST COMMENT:
+<2-4 sentence personal-profile repost comment, per step 6>
 ```
