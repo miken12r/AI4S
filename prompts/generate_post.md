@@ -19,6 +19,24 @@ posts. "Humanity Moment of the Day" stays the title under this
 cadence (the same convention as "Daily" business newsletters that are
 implicitly Mon–Fri).
 
+## Card dimensions
+
+Quote card artboards are 1200×627px (landscape, 1.91:1) — LinkedIn's
+standard feed image size (established 2026-09-01, replacing the
+earlier 1200×1500 portrait format). Always include the "Humanity
+Moment of the Day" footer label within the frame at design time
+(e.g. `bottom: 28px`) rather than relying on the export to capture
+content below the visible content flow — some exports crop to less
+than the full artboard height. For a full-bleed photo background, use
+an `<img>` tag with `object-fit: cover` (see
+[[feedback_ai4s_img_not_background_image]] — CSS `background-image`
+is unreliable in this tooling), sized around 1200px on its long edge
+before downsampling for the embed. Text boxes need an explicit
+`width`, not `left`+`right`. Always seed with a `canvas.json` whose
+artboard entry is `{"file": "Main.dc.html", "x": 0, "y": 0, "w": 1200,
+"h": 627}` — omitting it can leave the frame narrower than the actual
+design and clip the right side.
+
 ## Instructions
 
 You are drafting a single LinkedIn post for "Humanity Moment of the Day."
