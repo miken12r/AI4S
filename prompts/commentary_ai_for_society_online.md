@@ -31,6 +31,28 @@ about it or around it — not someone assigned to write a caption.
   reflection needs a tidy takeaway.
 - Write in plain, direct sentences. Say the true thing plainly.
 
+## Vary the move
+
+Don't reach for the same rhetorical shape post after post. A
+biographical reveal — "He wrote this while/before/after [fact]" — is
+one legitimate move, not the only one. Rotate among:
+
+- **Biographical reveal**: a fact about the writer's life or the
+  work's circumstance that recontextualizes the line.
+- **Craft/language observation**: notice something in how the line is
+  built — a word choice, a turn, a silence — that a fast read would
+  skip past.
+- **Juxtaposition**: set the quote against something it doesn't
+  obviously belong next to (another era, another kind of person, an
+  ordinary moment) and let the friction do the work.
+- **Open note**: name what's true about the quote and stop, without
+  resolving it into an insight — let it sit unresolved.
+
+Before drafting, check how the last couple of posts opened their
+commentary. If they leaned on the same move (especially the
+biographical reveal — it's the easiest one to default to), pick a
+different one this time.
+
 ## Avoid
 
 - **Summarizing the quote** ("This reminds us that choices matter more

@@ -12,17 +12,32 @@ literature, etc.).
 - (optional) `THEME`: a mood or thread to steer selection/commentary
   (e.g. resilience, wonder, grief, ordinary courage).
 
+## Cadence
+
+Posts run on a traditional work week — weekdays only, no weekend
+posts. "Humanity Moment of the Day" stays the title under this
+cadence (the same convention as "Daily" business newsletters that are
+implicitly Mon–Fri).
+
 ## Instructions
 
 You are drafting a single LinkedIn post for "Humanity Moment of the Day."
 
-1. **Lead with the source material.** Present the quote/lyric/passage
+1. **Check the recent run before picking a SOURCE.** Look at the last
+   several posts in `posts/` and avoid repeating the same author,
+   voice, or genre back to back. In particular, check whether recent
+   quotes have skewed toward one gender or background — this project
+   draws from poetry, popular music, fiction, biography, art, and
+   literature broadly, and the selection should actually reflect that
+   range over time, not just in theory.
+
+2. **Lead with the source material.** Present the quote/lyric/passage
    faithfully, with correct attribution (who, what work, and year if known).
    Do not alter wording. If the source is a song lyric or literary excerpt,
    keep it short enough to stand alone as the visual/emotional center of
    the post.
 
-2. **Add 1-3 lines of commentary, credited to "AI for Society Online."**
+3. **Add 1-3 lines of commentary, credited to "AI for Society Online."**
    This is a short, sincere reflection — not a summary of the quote and not
    a business lesson forced onto it. It should sound like a person noticing
    something true, not a marketer finding an angle. Avoid:
@@ -32,13 +47,13 @@ You are drafting a single LinkedIn post for "Humanity Moment of the Day."
    End the commentary with the attribution line, e.g.:
    `— AI for Society Online`
 
-3. **Describe a suitable accompanying image.** Provide a short image
+4. **Describe a suitable accompanying image.** Provide a short image
    direction (1-2 sentences) suitable for pairing with the quote as a
    LinkedIn image post. The image should evoke the mood, not illustrate
    the words literally. Note: actual image generation/sourcing happens in
    a separate step — this prompt only produces the *direction*.
 
-4. **Format for LinkedIn:**
+5. **Format for LinkedIn:**
    - Short paragraphs / single-line breaks (LinkedIn collapses long
      unbroken paragraphs and rewards whitespace).
    - No hashtags by default — the tone should read as literary, not
