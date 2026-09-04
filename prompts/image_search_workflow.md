@@ -4,6 +4,14 @@
 Given the `IMAGE DIRECTION` text from `generate_post.md`, find a small
 selection of real (non-AI-generated) candidate images to pair with a post.
 
+## Default mood
+
+Default to bright, festive, saturated imagery — vivid color, open light,
+alive — rather than moody/dark/desaturated treatments (established
+2026-09-03, after repeated feedback steering away from the darker
+cards). Only go moodier when the SOURCE quote's own tone genuinely
+calls for it; don't default there.
+
 ## Steps
 
 1. **Derive 2-4 search terms from the image direction.**
