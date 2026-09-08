@@ -74,9 +74,12 @@ You are drafting a single LinkedIn post for "Humanity Moment of the Day."
 5. **Format for LinkedIn:**
    - Short paragraphs / single-line breaks (LinkedIn collapses long
      unbroken paragraphs and rewards whitespace).
-   - No hashtags by default — the tone should read as literary, not
-     promotional. Only include one if it is genuinely apt, and never more
-     than one or two.
+   - No other hashtags by default — the tone should read as literary, not
+     promotional. Only add one beyond the standing tag below if it's
+     genuinely apt, and never more than one or two total.
+   - End the post with `#HumanityMomentDaily` as its own last line,
+     after the "— AI for Society Online" attribution (established
+     2026-09-08 — a standing branded tag, not a per-post choice).
    - Keep total post text under ~900 characters so it doesn't get
      truncated behind "see more" too aggressively.
 
@@ -103,7 +106,8 @@ IMAGE DIRECTION:
 
 POST TEXT:
 <the full LinkedIn post: quote presented, then 1-3 line commentary,
-then "— AI for Society Online", then optional hashtags>
+then "— AI for Society Online", then #HumanityMomentDaily as its own
+last line (plus one more hashtag only if genuinely apt)>
 
 REPOST COMMENT:
 <2-4 sentence personal-profile repost comment, per step 6>
