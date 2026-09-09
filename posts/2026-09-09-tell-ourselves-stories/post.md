@@ -16,4 +16,13 @@ She doesn't say the stories are true. Just that we need them anyway.
 
 ## Personal profile repost comment
 
-Silko opens *Ceremony* the same way, decades earlier and from a completely different tradition: "They are all we have, you see, all we have to fight off illness and death." Didion and Silko never crossed paths, but they landed on the same truth from opposite directions — stories aren't decoration. They're how we survive.
+This reminds me of one of my favorite novels, "Ceremony," by Leslie Marmon Silko. The novel begins:
+
+"I will tell you something about stories,
+[he said]
+They aren't just entertainment.
+Don't be fooled.
+They are all we have, you see,
+all we have to fight off illness and death."
+
+Silko and Didion never crossed paths in life, but they landed on the same truth from separate directions—stories aren't decoration. They're how we survive.
