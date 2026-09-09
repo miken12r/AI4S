@@ -35,6 +35,11 @@ calls for it; don't default there.
      (handshakes, lightbulbs, people at laptops) which reads as corporate.
    - Real photographic/artistic texture over anything that looks
      AI-generated or overly staged.
+   - People in frame are fine when they're not individually
+     distinguishable (silhouettes, distant figures) — a human moment
+     can reasonably include a human. Don't over-use this: it's a
+     permitted option, not a new default, and most cards will still be
+     people-free (established 2026-09-09).
 
 4. **Record for each candidate:** source, direct URL, and license note,
    so the final choice can be attributed correctly if needed.
