@@ -20,10 +20,23 @@ calls for it; don't default there.
    two doors, one lit warm, the other shadowed" → `warm light doorway`,
    `quiet hallway`, `threshold light shadow`.
 
-2. **Search, in this order of preference:**
+2. **Search Unsplash, Pexels, and Pixabay in parallel** (established
+   2026-09-17 — don't wait until Unsplash comes up short; a lot of the
+   best Unsplash matches turn out to be Unsplash+ premium and are
+   unusable, so checking all three from the start saves a round-trip):
    - Unsplash (unsplash.com) — free, high-quality, Unsplash License (free
-     for commercial use, no attribution legally required).
-   - Pexels (pexels.com) — same license spirit, good backup/alternate pool.
+     for commercial use, no attribution legally required). Best curated
+     "lifestyle/art" aesthetic, but a meaningful share of good hits are
+     Unsplash+ premium — verify license per candidate before proposing it.
+   - Pexels (pexels.com) — same license spirit and similar curation
+     quality to Unsplash; a good parallel pool, not just a fallback.
+   - Pixabay (pixabay.com) — much larger, more permissively licensed
+     (CC0-style, no premium tier to hit), and because it includes a lot
+     of amateur/hobbyist contributions alongside professional ones, it
+     often surfaces literal/niche combinations ("flower growing through
+     concrete") that Unsplash and Pexels' more curated aesthetic misses.
+     Tradeoff: average quality is more mixed — expect to filter more
+     candidates than on the other two.
    - Museum open-access archives (Met Open Access, Wikimedia Commons) —
      best when the mood calls for fine art rather than photography;
      confirm public-domain/CC0 status per item.
