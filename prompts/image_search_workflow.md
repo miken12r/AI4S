@@ -60,6 +60,12 @@ calls for it; don't default there.
 5. **Present the selection** to the user for final pick — this workflow
    surfaces candidates, it doesn't auto-select.
 
+6. **Open every candidate in Chrome** as part of presenting them
+   (established 2026-10-09) — don't wait to be asked. Open each
+   candidate's photo page in one command with an explicit app, e.g.
+   `open -a "Google Chrome" <url1> <url2> ...` — never a plain `open`,
+   which lands in the user's default browser (Safari).
+
 ## Notes from testing (2026-08-22)
 
 - Unsplash search results include sponsored iStock/Getty items mixed into
