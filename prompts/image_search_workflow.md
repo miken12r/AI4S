@@ -66,6 +66,33 @@ calls for it; don't default there.
    `open -a "Google Chrome" <url1> <url2> ...` — never a plain `open`,
    which lands in the user's default browser (Safari).
 
+## Searching Unsplash through Chrome (established 2026-10-13)
+
+The fastest reliable way to search Unsplash. Plain web search surfaces
+few real photo pages, and Unsplash's `/napi/` search endpoint returns
+"Authorization required" from curl, but it works from inside a page on
+unsplash.com.
+
+1. Check the Claude in Chrome extension is connected
+   (`list_connected_browsers`). If it's empty, fall back to web search
+   plus Openverse (`api.openverse.org/v1/images/?license=cc0,pdm`) and
+   tell the user the extension isn't connected.
+2. Navigate a tab to any `unsplash.com` page, then in one
+   `javascript_tool` call, run 3-5 mood queries against
+   `/napi/search/photos?query=...&per_page=20&orientation=landscape`.
+   Dedupe by id, and **drop anything with `premium` or `plus` set**
+   (Unsplash+, not usable).
+3. Replace the page body with a numbered grid of the `urls.small`
+   thumbnails, then screenshot it (scroll for more rows). Picking from
+   one contact sheet beats opening photo pages one at a time.
+4. For the 3-5 picks, read `user.name`, `width`x`height` and
+   `links.html` from the stored results. Then close the tab and continue
+   with steps 4-6 above.
+
+Downloads: `https://unsplash.com/photos/<id>/download?force=true` via
+curl returns the full-resolution original. Check its real dimensions with
+`sips`, because "landscape" filters still return some portrait originals.
+
 ## Notes from testing (2026-08-22)
 
 - Unsplash search results include sponsored iStock/Getty items mixed into

@@ -19,6 +19,10 @@ posts. "Humanity Moment of the Day" stays the title under this
 cadence (the same convention as "Daily" business newsletters that are
 implicitly Mon–Fri).
 
+Fridays can instead run a "Courage & Kindness" post about a real act
+of bravery or kindness. See `courage_and_kindness.md` (draft,
+2026-10-14).
+
 ## Card dimensions
 
 Quote card artboards are 1200×627px (landscape, 1.91:1) — LinkedIn's
@@ -71,6 +75,15 @@ You are drafting a single LinkedIn post for "Humanity Moment of the Day."
    the words literally. Note: actual image generation/sourcing happens in
    a separate step — this prompt only produces the *direction*.
 
+   **Alt text** (established 2026-10-14): once the image is chosen and
+   the card is built, write alt text for it and paste it into
+   LinkedIn's "Alt text" field when posting. Describe what's actually
+   in the card, in one or two plain sentences: the photo, then "with
+   the quote" and the quote text and attribution, since screen readers
+   can't read text baked into an image. Keep it under ~250 characters
+   if you can (LinkedIn allows 1,000). Don't editorialize, and don't
+   start with "Image of".
+
 5. **Format for LinkedIn:**
    - Short paragraphs / single-line breaks (LinkedIn collapses long
      unbroken paragraphs and rewards whitespace).
@@ -93,6 +106,11 @@ You are drafting a single LinkedIn post for "Humanity Moment of the Day."
    detail, an origin story, something surprising) — self-contained, so
    it reads fine even for someone who hasn't seen the original post yet.
 
+7. **Log it.** When the post is committed, append a row to
+   `metrics.csv` (date, slug, creator, genre, commentary move, news hook
+   if any), leaving the engagement columns blank to fill in about a week
+   later (established 2026-10-14).
+
 ## Output format
 
 Return exactly these sections:
@@ -111,4 +129,7 @@ last line (plus one more hashtag only if genuinely apt)>
 
 REPOST COMMENT:
 <2-4 sentence personal-profile repost comment, per step 6>
+
+ALT TEXT:
+<filled in after the card is built, per step 4>
 ```
