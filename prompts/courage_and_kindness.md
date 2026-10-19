@@ -7,8 +7,17 @@ bravery or kindness** from history or the news. The tone, voice, card
 format and "AI for Society Online" byline stay the same as
 `generate_post.md`. Only the source material changes.
 
-Status: draft (2026-10-14), not yet used for a published post. Revise
-after the first few runs.
+Status: draft (2026-10-14). First used 2026-10-16
+(`posts/2026-10-16-syndrome-k`, the Fatebenefratelli hospital in Rome).
+Revise after the first few runs.
+
+Notes from the first run:
+- Footer on the card reads "Courage & Kindness · Humanity Moment of the
+  Day" so the Friday post is marked but stays in the series.
+- Yad Vashem's Righteous database (collections.yadvashem.org) renders
+  with JavaScript, so WebFetch returns an error; read it in a Chrome tab.
+- Pairing worked: the Righteous medal's own inscription (Mishnah,
+  Sanhedrin 4:5) carried the card, with the story in the post text.
 
 ## Where to find stories
 
