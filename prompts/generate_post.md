@@ -106,10 +106,19 @@ You are drafting a single LinkedIn post for "Humanity Moment of the Day."
    detail, an origin story, something surprising) — self-contained, so
    it reads fine even for someone who hasn't seen the original post yet.
 
-7. **Log it.** When the post is committed, append a row to
+7. **Check for a theme.** Look at `themes.md`. If the new post genuinely
+   answers an existing theme, add the theme's tag to the post text (it
+   counts as the one extra hashtag allowed in step 5) and draft a
+   THEME COMMENT: a short comment for the new post linking back to one
+   or two earlier posts in the theme, plus a one-line forward comment
+   for the most recent earlier post. Don't force a fit; most posts won't
+   belong to a theme (established 2026-10-20).
+
+8. **Log it.** When the post is committed, append a row to
    `metrics.csv` (date, slug, creator, genre, commentary move, news hook
-   if any), leaving the engagement columns blank to fill in about a week
-   later (established 2026-10-14).
+   if any, theme if any), leaving the engagement columns blank to fill
+   in about a week later (established 2026-10-14). If it joined a theme,
+   add it to that theme's table in `themes.md`.
 
 ## Output format
 
@@ -132,4 +141,7 @@ REPOST COMMENT:
 
 ALT TEXT:
 <filled in after the card is built, per step 4>
+
+THEME COMMENT (only if the post joins a theme, per step 7):
+<comment for the new post, with links to earlier posts, then the tag>
 ```

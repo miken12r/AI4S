@@ -18,3 +18,10 @@ row when the post is committed, then fill in the numbers about a week
 later, once engagement has mostly settled. After a month or so, it should
 show which genres, commentary moves and card styles actually land.
 Rows before 2026-10-05 have no commentary move recorded.
+
+## Themes
+
+`themes.md` groups posts that answer each other under a series-only
+hashtag (`#OnAttention` first, 2026-10-20). The page comments on the
+newest post with links back to earlier ones, and on earlier posts with a
+link forward. The `theme` column in `metrics.csv` records membership.
