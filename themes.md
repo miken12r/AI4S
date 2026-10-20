@@ -34,7 +34,7 @@ as making.
 
 ### Comments to post
 
-**On Carson (10-15), linking back** — posted: no
+**On Carson (10-15), linking back** — posted: yes (2026-10-20)
 
 > Part of a thread on attention. Simone Weil called it "the rarest and purest form of generosity": https://www.linkedin.com/feed/update/urn:li:activity:7510374630688251904
 >
@@ -44,19 +44,19 @@ as making.
 >
 > #OnAttention
 
-**On Kurosawa (10-13), pointing forward** — posted: no
+**On Kurosawa (10-13), pointing forward** — posted: yes (2026-10-20)
 
 > Two days later, Rachel Carson on the other side of looking closely: what it gives back. https://www.linkedin.com/feed/update/urn:li:activity:7516553463204458496
 >
 > #OnAttention
 
-**On Weil (09-28), pointing forward** — posted: no
+**On Weil (09-28), pointing forward** — posted: yes (2026-10-20)
 
 > Kurosawa's version of this was harder: attention as refusing to look away. https://www.linkedin.com/feed/update/urn:li:activity:7515832696065966081
 >
 > #OnAttention
 
-**On Adams (09-25), pointing forward** — posted: no
+**On Adams (09-25), pointing forward** — posted: yes (2026-10-20)
 
 > Three days later, Simone Weil on what that kind of looking costs, and gives: https://www.linkedin.com/feed/update/urn:li:activity:7510374630688251904
 >
