@@ -87,9 +87,9 @@ POST TEXT:
 <the story in 2-4 short lines, then 1-2 lines of commentary, then
 "— AI for Society Online", then #HumanityMomentDaily>
 
-REPOST COMMENT:
-<2-4 sentences, first person, per generate_post.md step 6>
-
 ALT TEXT:
 <per generate_post.md step 4>
+
+REPOST COMMENT:
+<2-4 sentences, first person, per generate_post.md step 6>
 ```

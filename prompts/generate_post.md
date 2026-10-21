@@ -122,7 +122,9 @@ You are drafting a single LinkedIn post for "Humanity Moment of the Day."
 
 ## Output format
 
-Return exactly these sections:
+Return exactly these sections, in this order (ALT TEXT sits right after
+POST TEXT, since both are pasted into the same LinkedIn post;
+established 2026-10-21):
 
 ```
 SOURCE QUOTE:
@@ -136,11 +138,11 @@ POST TEXT:
 then "— AI for Society Online", then #HumanityMomentDaily as its own
 last line (plus one more hashtag only if genuinely apt)>
 
-REPOST COMMENT:
-<2-4 sentence personal-profile repost comment, per step 6>
-
 ALT TEXT:
 <filled in after the card is built, per step 4>
+
+REPOST COMMENT:
+<2-4 sentence personal-profile repost comment, per step 6>
 
 THEME COMMENT (only if the post joins a theme, per step 7):
 <comment for the new post, with links to earlier posts, then the tag>
