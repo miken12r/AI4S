@@ -12,6 +12,34 @@ alive — rather than moody/dark/desaturated treatments (established
 cards). Only go moodier when the SOURCE quote's own tone genuinely
 calls for it; don't default there.
 
+## People first (established 2026-11-03)
+
+The image is what stops the scroll, and scenic backgrounds read as
+generic travel/stock in a LinkedIn feed. A real person signals a story.
+
+- **Biographical and Courage & Kindness posts:** lead with a photo of
+  the person when an openly licensed one exists. Check public domain
+  first: US government photos (NASA images.nasa.gov, Library of
+  Congress, US Missions), then Wikimedia Commons with CC0 / CC BY /
+  CC BY-SA. Get the original scan from the source archive when
+  possible; Commons files can be video grabs or watermarked. Never
+  people from Unsplash-style stock passed off as the subject.
+- **Layout:** use a split card (photo on one side, solid text panel on
+  the other) so no text covers the face, with the person facing into
+  the panel. Never mirror a photo of a real person to make it fit.
+  Templates: `posts/2026-11-03-do-it-backwards/Main.dc.html` (photo
+  right) and `posts/2026-10-30-her-own-practice/Split-pillay.dc.html`
+  (photo left, with a credit line).
+- **Credit:** CC BY / BY-SA photos need the credit printed on the card
+  (e.g. "Photo: Wayamo Foundation, CC BY-SA 2.0"); a card made from a
+  BY-SA photo is itself shared under BY-SA. Record license and source
+  URL in `post.md`.
+- **Quote posts:** prefer images with a human presence (hands at work,
+  a figure in a landscape, someone doing what the quote describes) over
+  empty scenery. Keep pure mood images for quotes that really are about
+  nature or place.
+- Private individuals stay out, as in `courage_and_kindness.md`.
+
 ## Steps
 
 1. **Derive 2-4 search terms from the image direction.**
