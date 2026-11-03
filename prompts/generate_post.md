@@ -41,6 +41,15 @@ artboard entry is `{"file": "Main.dc.html", "x": 0, "y": 0, "w": 1200,
 "h": 627}` — omitting it can leave the frame narrower than the actual
 design and clip the right side.
 
+For a photo of a real person, use a split card instead of full bleed
+(established 2026-11-03): the photo fills one 600px half, and the text
+sits on a solid color panel in the other, so no text covers a face.
+Place the photo so the person faces into the text panel, and never
+mirror it to make that work. Print a credit line on the photo when its
+license requires one. Templates: `posts/2026-11-03-do-it-backwards/`
+(photo right) and `posts/2026-10-30-her-own-practice/Split-pillay.dc.html`
+(photo left, with a credit line).
+
 ## Instructions
 
 You are drafting a single LinkedIn post for "Humanity Moment of the Day."
@@ -72,8 +81,14 @@ You are drafting a single LinkedIn post for "Humanity Moment of the Day."
 4. **Describe a suitable accompanying image.** Provide a short image
    direction (1-2 sentences) suitable for pairing with the quote as a
    LinkedIn image post. The image should evoke the mood, not illustrate
-   the words literally. Note: actual image generation/sourcing happens in
-   a separate step — this prompt only produces the *direction*.
+   the words literally. People first (established 2026-11-03): if the
+   source's creator or subject has an openly licensed photo, direct
+   toward that photo, ideally of them at work; otherwise prefer an
+   image with a human presence over empty scenery, and keep pure
+   landscapes for quotes that really are about nature or place. See
+   `image_search_workflow.md`, "People first." Note: actual image
+   generation/sourcing happens in a separate step — this prompt only
+   produces the *direction*.
 
    **Alt text** (established 2026-10-14): once the image is chosen and
    the card is built, write alt text for it and paste it into

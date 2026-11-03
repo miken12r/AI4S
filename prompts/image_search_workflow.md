@@ -43,6 +43,10 @@ generic travel/stock in a LinkedIn feed. A real person signals a story.
 ## Steps
 
 1. **Derive 2-4 search terms from the image direction.**
+   If the post is about a person with openly licensed photos, search
+   the archives in "People first" above for their name before any
+   stock site. Otherwise, favor words that put a person in the frame
+   (hands, a figure, someone at work) along with the mood.
    Favor mood/atmosphere words over literal objects from the quote itself
    (the point is to evoke, not illustrate). E.g. from "a dim hallway with
    two doors, one lit warm, the other shadowed" → `warm light doorway`,
@@ -68,6 +72,11 @@ generic travel/stock in a LinkedIn feed. A real person signals a story.
    - Museum open-access archives (Met Open Access, Wikimedia Commons) —
      best when the mood calls for fine art rather than photography;
      confirm public-domain/CC0 status per item.
+   - Photos of a real person (added 2026-11-03): search NASA
+     (images-api.nasa.gov), the Library of Congress, and Wikimedia
+     Commons (the API returns license, artist and date per file) before
+     the stock sites, which don't have photos of named people. CC BY
+     and CC BY-SA are fine here with a printed credit.
 
 3. **Pull a small selection (3-5 candidates), favoring:**
    - Landscape/horizontal orientation (fits LinkedIn's image post crop
@@ -76,11 +85,15 @@ generic travel/stock in a LinkedIn feed. A real person signals a story.
      (handshakes, lightbulbs, people at laptops) which reads as corporate.
    - Real photographic/artistic texture over anything that looks
      AI-generated or overly staged.
-   - People in frame are fine when they're not individually
-     distinguishable (silhouettes, distant figures) — a human moment
-     can reasonably include a human. Don't over-use this: it's a
-     permitted option, not a new default, and most cards will still be
-     people-free (established 2026-09-09).
+   - A human presence (superseded 2026-11-03; the 2026-09-09 rule made
+     people an occasional option and most cards people-free). Now:
+     the subject themselves for biographical and Courage & Kindness
+     posts when a licensed photo exists; otherwise prefer anonymous or
+     not individually identifiable people (hands, silhouettes, distant
+     figures, someone at work) over empty scenery. See "People first."
+   - Black-and-white archival photos are fine for people-led cards,
+     despite the bright default above; let the text panel color carry
+     the brightness.
 
 4. **Record for each candidate:** source, direct URL, and license note,
    so the final choice can be attributed correctly if needed.

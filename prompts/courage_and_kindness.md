@@ -79,9 +79,12 @@ CARD TEXT:
 <either a paired quote with attribution, or a one-line factual headline>
 
 IMAGE DIRECTION:
-<as in generate_post.md: evoke the mood, don't illustrate literally;
-never a photo of the actual people unless it's public domain or licensed
-for this use>
+<as in generate_post.md, people first (2026-11-03): prefer a photo of
+the person who acted, if it's public domain or openly licensed (e.g. a
+Nobel laureate or historical figure; use a split card, with credit if
+required). Otherwise evoke the mood, ideally with a human presence. Never
+a photo of a private individual, a minor, or anyone named only in
+passing>
 
 POST TEXT:
 <the story in 2-4 short lines, then 1-2 lines of commentary, then
