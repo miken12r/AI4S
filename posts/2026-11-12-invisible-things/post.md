@@ -64,9 +64,11 @@ An open hand cradling a cluster of soap bubbles against a soft, pale background,
 
 ## REPOST COMMENT
 
+Posted as drafted below, plus @mentions of family members (not recorded here).
+
 Rivane Neuenschwander is my namesake, so I've been glad to see her work travel. One of my favorite stories: her first map-like piece happened by accident. Snails she kept in a box lined with rice paper started eating it, and what they left looked like continents. She called it Carta faminta (Starving Letters), since carta in Portuguese means both letter and map.
 
 ## THEME
 
-Possible fit with #OnAttention ("a slowing down, a sharpening of our
-perception," in the same interview), worth considering.
+#OnAttention (approved 2026-11-12). Joins Adams, Weil, Kurosawa and
+Carson; theme comments drafted in themes.md, not yet posted.

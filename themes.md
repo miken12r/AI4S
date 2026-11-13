@@ -31,8 +31,23 @@ as making.
 | 2026-09-28 | Simone Weil, "Attention is the rarest and purest form of generosity." | https://www.linkedin.com/feed/update/urn:li:activity:7510374630688251904 |
 | 2026-10-13 | Akira Kurosawa, "To be an artist means never to avert one's eyes." | https://www.linkedin.com/feed/update/urn:li:activity:7515832696065966081 |
 | 2026-10-15 | Rachel Carson, "Those who contemplate the beauty of the earth…" | https://www.linkedin.com/feed/update/urn:li:activity:7516553463204458496 |
+| 2026-11-12 | Rivane Neuenschwander, "…through insignificant and somewhat invisible things." | (link to add) |
 
 ### Comments to post
+
+**On Neuenschwander (11-12), linking back** — posted: no (theme approved 2026-11-12; post link still to add above)
+
+> Part of a thread on attention. Rachel Carson on what looking closely gives back: https://www.linkedin.com/feed/update/urn:li:activity:7516553463204458496
+>
+> Simone Weil called attention "the rarest and purest form of generosity": https://www.linkedin.com/feed/update/urn:li:activity:7510374630688251904
+>
+> #OnAttention
+
+**On Carson (10-15), pointing forward to Neuenschwander** — posted: no
+
+> Almost a month later, Rivane Neuenschwander on finding time, mortality and God in dust and soap bubbles: <link to the 11-12 post>
+>
+> #OnAttention
 
 **On Carson (10-15), linking back** — posted: yes (2026-10-20)
 
